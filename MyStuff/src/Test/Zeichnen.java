@@ -6,7 +6,7 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
-import STD.RandomS;
+import STDold.RandomS;
 
 public class Zeichnen {
 	//Variables

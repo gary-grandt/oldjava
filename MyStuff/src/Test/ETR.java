@@ -1,6 +1,6 @@
 package Test;
 
-import STD.Input;
+import STDold.Input;
 
 public class ETR {
 	private boolean run = true;

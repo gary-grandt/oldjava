@@ -1,10 +1,11 @@
 package Test;
 
-import STD.Input;
 import java.io.File;
 import java.io.IOException;
 
 import javax.imageio.ImageIO;
+
+import STDold.Input;
 
 import java.awt.image.BufferedImage;
 
@@ -14,7 +15,7 @@ public class KubischeWendepunktVerteilung {
 	 */
 	// For Math
 	private int range;
-	private float sliderSteprate;
+	//private float sliderSteprate;
 
 	private int hochPunktX;
 	private int hochPunktY;

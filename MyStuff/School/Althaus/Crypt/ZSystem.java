@@ -5,11 +5,6 @@ import java.math.BigInteger;
 //import java.util.ArrayList;
 
 public class ZSystem {
-	/*
-	 * In GG-Crypt werden die Zeichen intern als Bytes gespeichert.
-	 * Dies ist ausreichend, da selbst bei der verwendung von ASCI (128 Zeichen),
-	 * bei der Verschlüsselung nie höhere werte als 256 erreicht werden.
-	 */
 	
 	// Variables
 	private Output output = new Output(); // Output for Errors
